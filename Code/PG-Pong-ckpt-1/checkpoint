@@ -1,0 +1,6 @@
+model_checkpoint_path: "Pong_PG.ckpt-24940"
+all_model_checkpoint_paths: "Pong_PG.ckpt-24900"
+all_model_checkpoint_paths: "Pong_PG.ckpt-24910"
+all_model_checkpoint_paths: "Pong_PG.ckpt-24920"
+all_model_checkpoint_paths: "Pong_PG.ckpt-24930"
+all_model_checkpoint_paths: "Pong_PG.ckpt-24940"

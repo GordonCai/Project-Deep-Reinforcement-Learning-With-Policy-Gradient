@@ -1,0 +1,255 @@
+ep 7600: reward: -6.0, mean reward: 1.973131
+        ep 7601: reward: 11.0
+        ep 7602: reward: 5.0
+        ep 7603: reward: 7.0
+        ep 7604: reward: 1.0
+        ep 7605: reward: 4.0
+        ep 7606: reward: 5.0
+        ep 7607: reward: -3.0
+        ep 7608: reward: 10.0
+        ep 7609: reward: 2.0
+ep 7610: reward: -3.0, mean reward: 2.150518
+        ep 7611: reward: 10.0
+        ep 7612: reward: 7.0
+        ep 7613: reward: -8.0
+        ep 7614: reward: -4.0
+        ep 7615: reward: -7.0
+        ep 7616: reward: -6.0
+        ep 7617: reward: 8.0
+        ep 7618: reward: 7.0
+        ep 7619: reward: 8.0
+ep 7620: reward: 7.0, mean reward: 2.159835
+        ep 7621: reward: 7.0
+        ep 7622: reward: 10.0
+        ep 7623: reward: 5.0
+        ep 7624: reward: 2.0
+        ep 7625: reward: 9.0
+        ep 7626: reward: 3.0
+        ep 7627: reward: 5.0
+        ep 7628: reward: 3.0
+        ep 7629: reward: 9.0
+ep 7630: reward: -2.0, mean reward: 2.436395
+        ep 7631: reward: 5.0
+        ep 7632: reward: 6.0
+        ep 7633: reward: -2.0
+        ep 7634: reward: 9.0
+        ep 7635: reward: 2.0
+        ep 7636: reward: 5.0
+        ep 7637: reward: 1.0
+        ep 7638: reward: -3.0
+        ep 7639: reward: 7.0
+ep 7640: reward: 11.0, mean reward: 2.597214
+        ep 7641: reward: -3.0
+        ep 7642: reward: 1.0
+        ep 7643: reward: 12.0
+        ep 7644: reward: 7.0
+        ep 7645: reward: 7.0
+        ep 7646: reward: -1.0
+        ep 7647: reward: 10.0
+        ep 7648: reward: 7.0
+        ep 7649: reward: -3.0
+SAVED MODEL #7650
+ep 7650: reward: -9.0, mean reward: 2.611347
+        ep 7651: reward: 11.0
+        ep 7652: reward: 10.0
+        ep 7653: reward: 11.0
+        ep 7654: reward: 4.0
+        ep 7655: reward: 9.0
+        ep 7656: reward: 2.0
+        ep 7657: reward: 3.0
+        ep 7658: reward: 4.0
+        ep 7659: reward: 1.0
+ep 7660: reward: -4.0, mean reward: 2.837618
+        ep 7661: reward: -1.0
+        ep 7662: reward: 2.0
+        ep 7663: reward: 5.0
+        ep 7664: reward: 1.0
+        ep 7665: reward: 4.0
+        ep 7666: reward: 8.0
+        ep 7667: reward: -4.0
+        ep 7668: reward: 3.0
+        ep 7669: reward: -2.0
+ep 7670: reward: -6.0, mean reward: 2.657307
+        ep 7671: reward: -7.0
+        ep 7672: reward: 2.0
+        ep 7673: reward: -3.0
+        ep 7674: reward: 2.0
+        ep 7675: reward: -9.0
+        ep 7676: reward: -6.0
+        ep 7677: reward: 5.0
+        ep 7678: reward: -4.0
+        ep 7679: reward: 6.0
+ep 7680: reward: 7.0, mean reward: 2.344083
+        ep 7681: reward: 8.0
+        ep 7682: reward: 4.0
+        ep 7683: reward: -4.0
+        ep 7684: reward: 5.0
+        ep 7685: reward: 7.0
+        ep 7686: reward: 1.0
+        ep 7687: reward: 4.0
+        ep 7688: reward: 1.0
+        ep 7689: reward: -9.0
+ep 7690: reward: 3.0, mean reward: 2.305417
+        ep 7691: reward: 6.0
+        ep 7692: reward: 4.0
+        ep 7693: reward: 2.0
+        ep 7694: reward: 5.0
+        ep 7695: reward: 14.0
+        ep 7696: reward: 1.0
+        ep 7697: reward: -2.0
+        ep 7698: reward: 14.0
+        ep 7699: reward: -9.0
+SAVED MODEL #7700
+ep 7700: reward: -3.0, mean reward: 2.383867
+        ep 7701: reward: -8.0
+        ep 7702: reward: 10.0
+        ep 7703: reward: 7.0
+        ep 7704: reward: -2.0
+        ep 7705: reward: 8.0
+        ep 7706: reward: 5.0
+        ep 7707: reward: 2.0
+        ep 7708: reward: 1.0
+        ep 7709: reward: 3.0
+ep 7710: reward: 7.0, mean reward: 2.474550
+        ep 7711: reward: 1.0
+        ep 7712: reward: -4.0
+        ep 7713: reward: 4.0
+        ep 7714: reward: 11.0
+        ep 7715: reward: 8.0
+        ep 7716: reward: -3.0
+        ep 7717: reward: 6.0
+        ep 7718: reward: 10.0
+        ep 7719: reward: 7.0
+ep 7720: reward: -5.0, mean reward: 2.573799
+        ep 7721: reward: 8.0
+        ep 7722: reward: 8.0
+        ep 7723: reward: 5.0
+        ep 7724: reward: -8.0
+        ep 7725: reward: 5.0
+        ep 7726: reward: 6.0
+        ep 7727: reward: 8.0
+        ep 7728: reward: 4.0
+        ep 7729: reward: 2.0
+ep 7730: reward: 2.0, mean reward: 2.707697
+        ep 7731: reward: -2.0
+        ep 7732: reward: 6.0
+        ep 7733: reward: 5.0
+        ep 7734: reward: -6.0
+        ep 7735: reward: -3.0
+        ep 7736: reward: 1.0
+        ep 7737: reward: 1.0
+        ep 7738: reward: 3.0
+        ep 7739: reward: 12.0
+ep 7740: reward: 9.0, mean reward: 2.704983
+        ep 7741: reward: 10.0
+        ep 7742: reward: 5.0
+        ep 7743: reward: 7.0
+        ep 7744: reward: -6.0
+        ep 7745: reward: 12.0
+        ep 7746: reward: 7.0
+        ep 7747: reward: 5.0
+        ep 7748: reward: -5.0
+        ep 7749: reward: -2.0
+SAVED MODEL #7750
+ep 7750: reward: -5.0, mean reward: 2.703654
+        ep 7751: reward: -1.0
+        ep 7752: reward: 5.0
+        ep 7753: reward: 1.0
+        ep 7754: reward: 10.0
+        ep 7755: reward: 4.0
+        ep 7756: reward: 7.0
+        ep 7757: reward: 1.0
+        ep 7758: reward: 7.0
+        ep 7759: reward: 9.0
+ep 7760: reward: 8.0, mean reward: 2.938298
+        ep 7761: reward: 13.0
+        ep 7762: reward: 4.0
+        ep 7763: reward: 2.0
+        ep 7764: reward: 13.0
+        ep 7765: reward: 5.0
+        ep 7766: reward: -1.0
+        ep 7767: reward: 10.0
+        ep 7768: reward: 9.0
+        ep 7769: reward: 6.0
+ep 7770: reward: 9.0, mean reward: 3.326627
+        ep 7771: reward: 1.0
+        ep 7772: reward: 6.0
+        ep 7773: reward: 3.0
+        ep 7774: reward: 7.0
+        ep 7775: reward: -2.0
+        ep 7776: reward: 5.0
+        ep 7777: reward: 8.0
+        ep 7778: reward: 6.0
+        ep 7779: reward: 6.0
+ep 7780: reward: 4.0, mean reward: 3.431747
+        ep 7781: reward: 11.0
+        ep 7782: reward: 13.0
+        ep 7783: reward: 14.0
+        ep 7784: reward: -1.0
+        ep 7785: reward: 9.0
+        ep 7786: reward: -6.0
+        ep 7787: reward: -3.0
+        ep 7788: reward: -2.0
+        ep 7789: reward: -4.0
+ep 7790: reward: 6.0, mean reward: 3.444771
+        ep 7791: reward: 1.0
+        ep 7792: reward: 10.0
+        ep 7793: reward: -3.0
+        ep 7794: reward: 3.0
+        ep 7795: reward: 10.0
+        ep 7796: reward: -1.0
+        ep 7797: reward: 4.0
+        ep 7798: reward: 4.0
+        ep 7799: reward: 6.0
+SAVED MODEL #7800
+ep 7800: reward: 3.0, mean reward: 3.469991
+        ep 7801: reward: 3.0
+        ep 7802: reward: 2.0
+        ep 7803: reward: -12.0
+        ep 7804: reward: 6.0
+        ep 7805: reward: 9.0
+        ep 7806: reward: 3.0
+        ep 7807: reward: 6.0
+        ep 7808: reward: 2.0
+        ep 7809: reward: 5.0
+ep 7810: reward: -3.0, mean reward: 3.340426
+        ep 7811: reward: 12.0
+        ep 7812: reward: 6.0
+        ep 7813: reward: 5.0
+        ep 7814: reward: -2.0
+        ep 7815: reward: -1.0
+        ep 7816: reward: 3.0
+        ep 7817: reward: -1.0
+        ep 7818: reward: 7.0
+        ep 7819: reward: 3.0
+ep 7820: reward: 1.0, mean reward: 3.331693
+        ep 7821: reward: -5.0
+        ep 7822: reward: 9.0
+        ep 7823: reward: 7.0
+        ep 7824: reward: 5.0
+        ep 7825: reward: 13.0
+        ep 7826: reward: -3.0
+        ep 7827: reward: 5.0
+        ep 7828: reward: 4.0
+        ep 7829: reward: 3.0
+ep 7830: reward: 7.0, mean reward: 3.445043
+        ep 7831: reward: -9.0
+        ep 7832: reward: 1.0
+        ep 7833: reward: -10.0
+        ep 7834: reward: -3.0
+        ep 7835: reward: 2.0
+        ep 7836: reward: 10.0
+        ep 7837: reward: -6.0
+        ep 7838: reward: 4.0
+        ep 7839: reward: 5.0
+ep 7840: reward: 11.0, mean reward: 3.176761
+        ep 7841: reward: -3.0
+        ep 7842: reward: -3.0
+        ep 7843: reward: 2.0
+        ep 7844: reward: 2.0
+        ep 7845: reward: 2.0
+        ep 7846: reward: 15.0
+        ep 7847: reward: 7.0
+        ep 7848: reward: 5.0
+        ep 7849: reward: -8.0
+SAVED MODEL #7850

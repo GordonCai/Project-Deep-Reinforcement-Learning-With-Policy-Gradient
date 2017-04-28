@@ -1,0 +1,10 @@
+* Yelp:
+ * http://cs231n.stanford.edu/reports2016/001_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/013_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/014_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/015_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/017_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/020_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/021_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/024_Report.pdf
+ * http://cs231n.stanford.edu/reports2016/025_Report.pdf

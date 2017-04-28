@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pong_PG.ckpt-380"
+all_model_checkpoint_paths: "Pong_PG.ckpt-380"
